@@ -1,5 +1,5 @@
 {
-  "name": "Monroe_UtilityTool",
+  "name": "dmonroe08-utilitytool",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DMonroe08/Monroe_UtilityTool.git"
+    "url": "git+https://github.com/DMonroe08/dmonroe08-utilitytool.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DMonroe08/Monroe_UtilityTool/issues"
+    "url": "https://github.com/DMonroe08/dmonroe08-utilitytool/issues"
   },
-  "homepage": "https://github.com/DMonroe08/Monroe_UtilityTool#readme",
+  "homepage": "https://github.com/DMonroe08/dmonroe08_utilitytool#readme",
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.0.1",
